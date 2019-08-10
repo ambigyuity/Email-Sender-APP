@@ -1,5 +1,5 @@
 
-Second Project: Pandas/SMTP/Filters/OS
+Second Project: Pandas/SMTP/Filters/OS 
 
 This product allows the user to automate emails to unlimited recipients per limit of email server.
 
